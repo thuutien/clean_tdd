@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:coronatracker/features/number_trivia/domain/entities/number_trivia.dart';
 import 'package:meta/meta.dart';
 
